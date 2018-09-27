@@ -1,7 +1,7 @@
 
 # Capsule Pulse Tracking
 
-The below python notebook explains how to setup the processing pipeline. Specifics for the exact processing implementation can be found in the `algo.py` file.
+The included notebook explains how to setup the processing pipeline. Specifics for the exact processing implementation can be found in the `algo.py` file.
 
 ## Setup
 
