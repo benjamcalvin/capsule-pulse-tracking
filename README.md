@@ -27,10 +27,10 @@ Recommended setup:
       capsule-pulse-tracking/
           code/
               notebooks/
-                  explanation.ipynb
+                  example.ipynb
               algo.py
           videos/
               myvideo/
                   myvideo.mp4 (or avi, etc)
 ```
-6. Run jupyter: `jupyter lab` and open this notebook once it's in the above directory structure.
+6. Run jupyter: `jupyter lab` and open the example notebook once it's in the above directory structure.
