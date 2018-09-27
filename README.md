@@ -7,7 +7,7 @@ The below python notebook explains how to setup the processing pipeline. Specifi
 
 This has been tested on Ubuntu 17.10, but should work generally on linux systems, and potentially windows or OSX with small changes.
 
-Clone this repository
+Clone this repository.
 
 Recommended setup:
 1. Follow directions to install [pyenv](https://github.com/pyenv/pyenv)
