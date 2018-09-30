@@ -3,7 +3,7 @@
 
 The included notebook explains how to setup the processing pipeline. Specifics for the exact processing implementation can be found in the `algo.py` file.
 
-[capsule_pulse.gif]
+![](capsule_pulse.gif "An Example - low grain threshold")
 
 ## Setup
 
