@@ -3,6 +3,8 @@
 
 The included notebook explains how to setup the processing pipeline. Specifics for the exact processing implementation can be found in the `algo.py` file.
 
+[](capsule_pulse.gif)
+
 ## Setup
 
 This has been tested on Ubuntu 17.10, but should work generally on linux systems, and potentially windows or OSX with small changes.
